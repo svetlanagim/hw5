@@ -1,0 +1,107 @@
+body {
+    background: rgb(237, 178, 178);
+
+}
+
+table,
+th,
+td {
+    border-collapse: collapse;
+}
+
+.table-container {
+    background: white;
+    margin: 40px auto;
+    width: 600px;
+    padding: 20px;
+    box-shadow: 1px 1px 6px 5px gray;
+}
+
+.table-container1 {
+    text-align: center; 
+    color: #98a2b3
+}
+
+.table-container2 {
+    text-align: center;
+}
+/* Заголовок таблицы */
+
+.nametab {
+    padding: 24px;
+    width: 552px;
+    height: 91px;
+
+}
+
+/* Tabl1 */
+.border {
+    border-bottom: 1px solid #e0e0e0;
+    padding: 16px 0px;
+    width: 552px;
+    height: 56px;
+}
+
+.title {
+    font-size: 16px;
+    font-weight: bolder;
+    text-align: right;
+    color: #101828;
+    width: 126px;
+}
+
+.meaning {
+    font-size: 15px;
+    text-align: right;
+    color: #101828;
+}
+
+.name {
+    font-size: 16px;
+    color: #667085;
+    width: 376px;
+}
+
+/* Tabl2 */
+
+.border2 {
+
+    width: 552px;
+    height: 168px;
+
+}
+
+.table2_1 {
+    width: 299px;
+    height: 120px;
+    vertical-align: bottom;
+    text-align: left;
+    color: #101828;
+
+}
+
+.table2_2 {
+    padding: 16px 0px;
+    width: 299px;
+    height: 120px;
+    font-size: 15px;
+    vertical-align: bottom;
+    text-align: right;
+    color: #667085;
+}
+
+/* Tabl3 */
+
+.border3 {
+
+    width: 552px;
+    height: 30px;
+    
+}
+
+.table3 {
+    vertical-align: auto;
+    text-align: center;
+    color: #101828;
+
+}
